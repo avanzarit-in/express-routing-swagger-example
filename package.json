@@ -18,7 +18,12 @@
   },
   "homepage": "https://github.com/searsaw/express-routing-example#readme",
   "dependencies": {
-    "express": "^4.13.4"
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.4",
+    "express": "^4.13.4",
+    "morgan": "^1.9.1",
+    "serve-favicon": "^2.5.0",
+    "swagger-jsdoc": "^3.4.0"
   },
   "devDependencies": {
     "eslint": "^2.4.0",
